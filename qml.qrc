@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TimeText.qml</file>
+        <file>TimeDisplay.qml</file>
+        <file>fonts/Led16Segment-188L.ttf</file>
+    </qresource>
+</RCC>
